@@ -100,6 +100,7 @@ export default function DataTableDemo() {
                           }
                         >
                           {column.id}
+                     
                         </DropdownMenuCheckboxItem>
                       );
                     })}
